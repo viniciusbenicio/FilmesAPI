@@ -25,9 +25,9 @@ public class FilmeController : ControllerBase
 
     //Recuperando os Filmes...
     [HttpGet]
-    public IEnumerable<Filme> RecuperaFilmes()
+    public IEnumerable<Filme> RecuperaFilmes([FromQuery]int skip = 0, [FromQuery]int take = 50)
     {
-        return filmes;
+        return filmes.Skip(skip).Take(take);
     }
 
     //Recuperando Filme por Id...
