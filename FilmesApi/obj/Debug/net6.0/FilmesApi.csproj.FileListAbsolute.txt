@@ -87,3 +87,7 @@ D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\
 D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\AutoMapper.dll
 D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
