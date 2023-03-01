@@ -91,3 +91,5 @@ D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\
 D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.xml
+D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.xml
