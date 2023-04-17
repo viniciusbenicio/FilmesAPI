@@ -93,3 +93,5 @@ D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\
 D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
 D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
 D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
+D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\Castle.Core.dll
+D:\Cursos\Alura\.NET 6 criando uma web API .NET 6 criando uma web API\FilmesApi\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
