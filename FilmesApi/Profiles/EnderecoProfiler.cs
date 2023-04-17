@@ -9,7 +9,7 @@ public class EnderecoProfiler : Profile
     public EnderecoProfiler()
     {
         CreateMap<CreateEnderecoDto, Endereco>();
-        CreateMap<ReadEnderecoDto, Endereco>();
+        CreateMap<Endereco, ReadEnderecoDto>();
         CreateMap<UpdateEnderecoDto, Endereco>();
     }
 }
