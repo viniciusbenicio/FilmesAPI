@@ -4,7 +4,7 @@ namespace FilmesApi.Data.Dtos;
 
 public class CreateCinemaDto
 {
-    [Required(ErrorMessage = "O Campo de Nome é obrigatório.")]
+    [Required(ErrorMessage = "O campo de nome é obrigatório.")]
     public string Nome { get; set; }
     public int EnderecoId { get; set; }
 }
