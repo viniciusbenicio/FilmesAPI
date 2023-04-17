@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using Azure;
 using FilmesApi.Data;
 using FilmesApi.Data.Dtos;
 using FilmesApi.Models;

@@ -4,10 +4,8 @@
 
 namespace FilmesApi.Migrations
 {
-    /// <inheritdoc />
-    public partial class CinemaeEndereco : Migration
+    public partial class initial : Migration
     {
-        /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
@@ -22,6 +20,21 @@ namespace FilmesApi.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Enderecos", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Filmes",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Titulo = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Genero = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
+                    Duracao = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Filmes", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -51,11 +64,13 @@ namespace FilmesApi.Migrations
                 unique: true);
         }
 
-        /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
                 name: "Cinemas");
+
+            migrationBuilder.DropTable(
+                name: "Filmes");
 
             migrationBuilder.DropTable(
                 name: "Enderecos");
